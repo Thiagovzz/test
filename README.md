@@ -9,7 +9,9 @@ obs: Sistema Operacional Linux.
 2 - instalção do pip3: https://linuxgenie.net/how-to-install-pip-on-ubuntu-22-04/
 
 3 - O teste foi realizado no browser Chrome, logo a versão do chrome e do chromedriver devem ser a mesma, para baixar o chromedriver: https://chromedriver.chromium.org/downloads
-    3.1 - o chromedriver deve estar na pasta do projeto para o funcionamento correto.
+
+3.1 - o chromedriver deve estar na pasta do projeto para o funcionamento correto.
+
     
 4 - instalação do robot: https://robotframework.org/ ( contém tbm as instruções para instalação das libs ex: Selenium ).
 
