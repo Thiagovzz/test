@@ -20,3 +20,4 @@ Caso de teste 02 - Valida o campo "Pesquisar"
      Validar apresentação do campo de Pesquisa e o botão de pesquisar
      Digitar o texto "Letras Financeiras Públicas" no campo pesquisar
      Validar se o texto é apresentado na página
+ 

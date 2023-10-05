@@ -24,5 +24,5 @@ Digitar o texto "Letras Financeiras Públicas" no campo pesquisar
     Input Text                          locator=(//input[contains(@type,'search')])[1]    text=Letras Financeiras Públicas
     Click Element                       locator=(//input[contains(@type,'submit')])[1]
 Validar se o texto é apresentado na página
-    Wait Until Page Contains            text=Letras Financeiras Públicas
+    Wait Until Page Contains            text=Letras Financeiras Públicas  
 
