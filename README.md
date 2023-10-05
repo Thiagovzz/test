@@ -1,6 +1,6 @@
 Prezados,
 
-O teste foi realizado pelo robotframework, para configuração do ambiente para execução do mesmo, seguir os passos abaixo:
+O teste foi realizado pelo robotframework, para configuração do ambiente e execução do mesmo, seguir os passos abaixo:
 
 obs: Sistema Operacional Linux.
 
